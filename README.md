@@ -7,7 +7,7 @@ Please click file 'hotel_bookings.ipynb' for whole version, including:
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
-- Tunning Machine Learning Model
+- Traning & Tuning Machine Learning Model
   - RandomForestClassifier
   - LogisticRegression
 - Evaluate Accuracy
